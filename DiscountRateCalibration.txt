@@ -1,0 +1,416 @@
+ *******************************************
+  ITERATION : 			           1
+  rho guess: 			  1.599999999999987E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    39.6501241403568     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    242.906801614422     
+   relative error:    13.3068740943226     
+ *******************************************
+  ITERATION : 			           2
+  rho guess: 			  3.615795806013055E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.000000000000000E+000
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.000000000000000E+000
+   relative error:   -1.00000000000000     
+ *******************************************
+  ITERATION : 			           3
+  rho guess: 			  3.416509848931167E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.000000000000000E+000
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.000000000000000E+000
+   relative error:   -1.00000000000000     
+ *******************************************
+  ITERATION : 			           4
+  rho guess: 			  3.240865892786182E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.000000000000000E+000
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.000000000000000E+000
+   relative error:   -1.00000000000000     
+ *******************************************
+  ITERATION : 			           5
+  rho guess: 			  3.085489289727502E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   3.007252033161472E-009
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   1.909194784898637E-013
+   relative error:  -0.999999999999989     
+ *******************************************
+  ITERATION : 			           6
+  rho guess: 			  2.947568707255748E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   8.052999492109221E-007
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   8.024431191093264E-010
+   relative error:  -0.999999999952737     
+ *******************************************
+  ITERATION : 			           7
+  rho guess: 			  2.824749920704139E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   4.831321698124987E-005
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   3.616656573611917E-007
+   relative error:  -0.999999978698394     
+ *******************************************
+  ITERATION : 			           8
+  rho guess: 			  2.715051625373672E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   1.091113387995166E-003
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   3.792365517177556E-005
+   relative error:  -0.999997766349249     
+ *******************************************
+  ITERATION : 			           9
+  rho guess: 			  2.616798529635173E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   8.346140426298158E-003
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   7.902049966139505E-004
+   relative error:  -0.999953458020442     
+ *******************************************
+  ITERATION : 			          10
+  rho guess: 			  2.528570541503355E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   3.896574436507060E-002
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   7.880281207788444E-003
+   relative error:  -0.999535862354128     
+ *******************************************
+  ITERATION : 			          11
+  rho guess: 			  2.449179089631333E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.118615035559738     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   4.150677520305954E-002
+   relative error:  -0.997555308443630     
+ *******************************************
+  ITERATION : 			          12
+  rho guess: 			  2.377677231873066E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.274194797525571     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.144971418091809     
+   relative error:  -0.991461384316413     
+ *******************************************
+  ITERATION : 			          13
+  rho guess: 			  2.313378224088854E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.532326089838969     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.390220489589623     
+   relative error:  -0.977016553770917     
+ *******************************************
+  ITERATION : 			          14
+  rho guess: 			  2.255864755729025E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:   0.915322603191453     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:   0.876290370475181     
+   relative error:  -0.948387711183336     
+ *******************************************
+  ITERATION : 			          15
+  rho guess: 			  2.204972948486332E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    1.43106004999905     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    1.70736024816879     
+   relative error:  -0.899438846743466     
+ *******************************************
+  ITERATION : 			          16
+  rho guess: 			  2.160717007672009E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    2.06570857824897     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    2.95292439125323     
+   relative error:  -0.826076844308480     
+ *******************************************
+  ITERATION : 			          17
+  rho guess: 			  2.123155806089353E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    2.78135214087441     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    4.60329318366707     
+   relative error:  -0.728872408840494     
+ *******************************************
+  ITERATION : 			          18
+  rho guess: 			  2.092232248034482E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    3.51808470917097     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    6.53706106297818     
+   relative error:  -0.614976159772651     
+ *******************************************
+  ITERATION : 			          19
+  rho guess: 			  2.067618469763718E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    4.22051313197188     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    8.57790036017895     
+   relative error:  -0.494773552526828     
+ *******************************************
+  ITERATION : 			          20
+  rho guess: 			  2.048723146328341E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    4.84398641998722     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    10.5363682462334     
+   relative error:  -0.379422507280959     
+ *******************************************
+  ITERATION : 			          21
+  rho guess: 			  2.034746086307498E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    5.35698406821824     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    12.2444941852304     
+   relative error:  -0.278816255895422     
+ *******************************************
+  ITERATION : 			          22
+  rho guess: 			  2.024744378549964E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    5.75466449927826     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    13.6256818628757     
+   relative error:  -0.197466215166353     
+ *******************************************
+  ITERATION : 			          23
+  rho guess: 			  2.017793288962756E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.04808749763386     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    14.6755420249893     
+   relative error:  -0.135630906084118     
+ *******************************************
+  ITERATION : 			          24
+  rho guess: 			  2.013080558864656E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.25658978269007     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    15.4370292273286     
+   relative error:  -9.078036482344409E-002
+ *******************************************
+  ITERATION : 			          25
+  rho guess: 			  2.009953642865390E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.39962272739024     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    15.9667124591523     
+   relative error:  -5.958275628712795E-002
+ *******************************************
+  ITERATION : 			          26
+  rho guess: 			  2.007913070176350E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.49484521716857     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.3225980388274     
+   relative error:  -3.862158868475152E-002
+ *******************************************
+  ITERATION : 			          27
+  rho guess: 			  2.006595288545084E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.55702380957356     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.5563781914203     
+   relative error:  -2.485226157382447E-002
+ *******************************************
+  ITERATION : 			          28
+  rho guess: 			  2.005749353334988E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.59728242315858     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.7083272767953     
+   relative error:  -1.590267095405262E-002
+ *******************************************
+  ITERATION : 			          29
+  rho guess: 			  2.005208880376899E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.62315563430162     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.8062227036380     
+   relative error:  -1.013676593640633E-002
+ *******************************************
+  ITERATION : 			          30
+  rho guess: 			  2.004864706605991E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.63969524422995     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.8689017695012     
+   relative error:  -6.445055792044907E-003
+ *******************************************
+  ITERATION : 			          31
+  rho guess: 			  2.004646013856886E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.65023078843251     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9088677499735     
+   relative error:  -4.091114910712568E-003
+ *******************************************
+  ITERATION : 			          32
+  rho guess: 			  2.004507249621433E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.65692681893105     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9342849728438     
+   relative error:  -2.594075696431442E-003
+ *******************************************
+  ITERATION : 			          33
+  rho guess: 			  2.004419284694971E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66117597296451     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9504207176892     
+   relative error:  -1.643702679344883E-003
+ *******************************************
+  ITERATION : 			          34
+  rho guess: 			  2.004363555713094E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66386971073720     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9606525483355     
+   relative error:  -1.041062029358608E-003
+ *******************************************
+  ITERATION : 			          35
+  rho guess: 			  2.004328262539350E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66557635448853     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9671360784129     
+   relative error:  -6.591910900192177E-004
+ *******************************************
+  ITERATION : 			          36
+  rho guess: 			  2.004305916645022E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66665719832565     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9712426210245     
+   relative error:  -4.173214193643471E-004
+ *******************************************
+  ITERATION : 			          37
+  rho guess: 			  2.004291770452841E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66734154666816     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9738428938793     
+   relative error:  -2.641689506105438E-004
+ *******************************************
+  ITERATION : 			          38
+  rho guess: 			  2.004282815989771E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66777477788343     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9754890816503     
+   relative error:  -1.672107715073867E-004
+ *******************************************
+  ITERATION : 			          39
+  rho guess: 			  2.004277148183413E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66804901748264     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9765311618495     
+   relative error:  -1.058336914634417E-004
+ *******************************************
+  ITERATION : 			          40
+  rho guess: 			  2.004273560862328E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66822260142843     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9771907725882     
+   relative error:  -6.698353277345692E-005
+ *******************************************
+  ITERATION : 			          41
+  rho guess: 			  2.004271290414432E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66833246917740     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9776082691797     
+   relative error:  -4.239356192869970E-005
+ *******************************************
+  ITERATION : 			          42
+  rho guess: 			  2.004269853464545E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66840200042778     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9778724891409     
+   relative error:  -2.683137226500154E-005
+ *******************************************
+  ITERATION : 			          43
+  rho guess: 			  2.004268944004823E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66844601187970     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9780397341252     
+   relative error:  -1.698087438972706E-005
+ *******************************************
+  ITERATION : 			          44
+  rho guess: 			  2.004268368432486E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66847386705011     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9781455849821     
+   relative error:  -1.074640555864814E-005
+ *******************************************
+  ITERATION : 			          45
+  rho guess: 			  2.004268004179897E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66849148981201     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9782125523550     
+   relative error:  -6.802120074422824E-006
+ *******************************************
+  ITERATION : 			          46
+  rho guess: 			  2.004267773620177E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66850264664935     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9782549489375     
+   relative error:  -4.305020097850054E-006
+ *******************************************
+  ITERATION : 			          47
+  rho guess: 			  2.004267627700421E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66850970714211     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9782817792082     
+   relative error:  -2.724754324501255E-006
+ *******************************************
+  ITERATION : 			          48
+  rho guess: 			  2.004267535344170E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66851417348957     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9782987515877     
+   relative error:  -1.725104688099499E-006
+ *******************************************
+  ITERATION : 			          49
+  rho guess: 			  2.004267476871341E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66851699490115     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9783094731182     
+   relative error:  -1.093621391112798E-006
+ *******************************************
+  ITERATION : 			          50
+  rho guess: 			  2.004267439802769E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66851878053651     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9783162586392     
+   relative error:  -6.939636079117406E-007
+ *******************************************
+  ITERATION : 			          51
+  rho guess: 			  2.004267416280727E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66851990928568     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9783205479538     
+   relative error:  -4.413289178550883E-007
+ *******************************************
+  ITERATION : 			          52
+  rho guess: 			  2.004267401321778E-002
+   target KY ratio:    6.66852188110352     
+   implied KY ratio:    6.66852062213721     
+   target KN ratio:    16.9783280409810     
+   implied KN ratio:    16.9783232568327     
+   relative error:  -2.817797056797744E-007
