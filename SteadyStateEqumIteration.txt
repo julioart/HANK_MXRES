@@ -2,120 +2,120 @@
   ITERATION : 			           1
   r guess: 	  4.148130861147802E-002
    implied ra: 	  2.398130853697222E-002
-   implied borr rate:   4.300000052899122E-002
+   implied borr rate:   4.050000105053186E-002
    implied wage:    1.58997192942786     
    implied KY ratio:    7.15985155105591     
-   actual KY ratio:    8.22666010200951     
+   actual KY ratio:    8.17790481675558     
    implied KN firm: 	   18.8788776397705     
-   implied KN hh: 	   23.2276531013978     
-   relative error:   0.230351377057824     
+   implied KN hh: 	   23.0224926119509     
+   relative error:   0.219484179687217     
  *******************************************
   ITERATION : 			           2
-  r guess: 	  4.085317171788840E-002
-   implied ra: 	  2.335317164338259E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60196616393969     
-   implied KY ratio:    7.26993766488079     
-   actual KY ratio:    7.22915221495384     
-   implied KN firm: 	   19.3137551924134     
-   implied KN hh: 	   19.1522578094218     
-   relative error:  -8.361780574657307E-003
+  r guess: 	  4.088227305796114E-002
+   implied ra: 	  2.338227298345533E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60140440639233     
+   implied KY ratio:    7.26476268529995     
+   actual KY ratio:    7.24140283762255     
+   implied KN firm: 	   19.2932391431630     
+   implied KN hh: 	   19.2007193407994     
+   relative error:  -4.795452006636447E-003
  *******************************************
   ITERATION : 			           3
-  r guess: 	  4.087607526223561E-002
-   implied ra: 	  2.337607518772980E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60152399547732     
-   implied KY ratio:    7.26586419797770     
-   actual KY ratio:    7.21945419813046     
-   implied KN firm: 	   19.2976054538736     
-   implied KN hh: 	   19.1139226553221     
-   relative error:  -9.518424396773639E-003
+  r guess: 	  4.089541360132910E-002
+   implied ra: 	  2.339541352682330E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60115094354280     
+   implied KY ratio:    7.26242836658992     
+   actual KY ratio:    7.21149658280552     
+   implied KN firm: 	   19.2839871627888     
+   implied KN hh: 	   19.0824860473508     
+   relative error:  -1.044914175357048E-002
  *******************************************
   ITERATION : 			           4
-  r guess: 	  4.090216407903532E-002
-   implied ra: 	  2.340216400452952E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60102078345082     
-   implied KY ratio:    7.26122977815614     
-   actual KY ratio:    7.26081943392054     
-   implied KN firm: 	   19.2792371737448     
-   implied KN hh: 	   19.2776110740638     
-   relative error:  -8.434460691186807E-005
+  r guess: 	  4.092406917696255E-002
+   implied ra: 	  2.342406910245674E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60059863858068     
+   implied KY ratio:    7.25734311799352     
+   actual KY ratio:    7.25981387253089     
+   implied KN firm: 	   19.2638370509447     
+   implied KN hh: 	   19.2736264572785     
+   relative error:   5.081753083726603E-004
  *******************************************
   ITERATION : 			           5
-  r guess: 	  4.090239522241786E-002
-   implied ra: 	  2.340239514791205E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60101632720151     
-   implied KY ratio:    7.26118874424595     
-   actual KY ratio:    7.26326046435619     
-   implied KN firm: 	   19.2790745637742     
-   implied KN hh: 	   19.2872849815758     
-   relative error:   4.258719874945527E-004
+  r guess: 	  4.092267586379210E-002
+   implied ra: 	  2.342267578928629E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60062547982053     
+   implied KY ratio:    7.25759021209319     
+   actual KY ratio:    7.26047826033491     
+   implied KN firm: 	   19.2648159915927     
+   implied KN hh: 	   19.2762591161960     
+   relative error:   5.939908592089704E-004
  *******************************************
   ITERATION : 			           6
-  r guess: 	  4.090122817857243E-002
-   implied ra: 	  2.340122810406662E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60103882720592     
-   implied KY ratio:    7.26139592936023     
-   actual KY ratio:    7.26171622352565     
-   implied KN firm: 	   19.2798956055666     
-   implied KN hh: 	   19.2811649033202     
-   relative error:   6.583530220027889E-005
+  r guess: 	  4.092104732898026E-002
+   implied ra: 	  2.342104725447446E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065685417578     
+   implied KY ratio:    7.25787904239158     
+   actual KY ratio:    7.25809004119327     
+   implied KN firm: 	   19.2659603040701     
+   implied KN hh: 	   19.2667962712723     
+   relative error:   4.339089196792045E-005
  *******************************************
   ITERATION : 			           7
-  r guess: 	  4.090104776566897E-002
-   implied ra: 	  2.340104769116316E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60104230555932     
-   implied KY ratio:    7.26142795909038     
-   actual KY ratio:    7.26138754395439     
-   implied KN firm: 	   19.2800225353439     
-   implied KN hh: 	   19.2798623753074     
-   relative error:  -8.307046125421991E-006
+  r guess: 	  4.092092836416201E-002
+   implied ra: 	  2.342092828965620E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065914615221     
+   implied KY ratio:    7.25790014240802     
+   actual KY ratio:    7.25779778659189     
+   implied KN firm: 	   19.2660439007915     
+   implied KN hh: 	   19.2656383756544     
+   relative error:  -2.104869786367924E-005
  *******************************************
   ITERATION : 			           8
-  r guess: 	  4.090107053006631E-002
-   implied ra: 	  2.340107045556050E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60104186666140     
-   implied KY ratio:    7.26142391758170     
-   actual KY ratio:    7.26140465657148     
-   implied KN firm: 	   19.2800065193400     
-   implied KN hh: 	   19.2799301903758     
-   relative error:  -3.958969833406378E-006
+  r guess: 	  4.092098607352442E-002
+   implied ra: 	  2.342098599901861E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065803432228     
+   implied KY ratio:    7.25788990685825     
+   actual KY ratio:    7.25786896172936     
+   implied KN firm: 	   19.2660033482772     
+   implied KN hh: 	   19.2659203652661     
+   relative error:  -4.307224991895175E-006
  *******************************************
   ITERATION : 			           9
-  r guess: 	  4.090108137911884E-002
-   implied ra: 	  2.340108130461303E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60104165749164     
-   implied KY ratio:    7.26142199148179     
-   actual KY ratio:    7.26142108385278     
-   implied KN firm: 	   19.2799988864434     
-   implied KN hh: 	   19.2799952896219     
-   relative error:  -1.865571428449897E-007
+  r guess: 	  4.092099788267350E-002
+   implied ra: 	  2.342099780816769E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065780680722     
+   implied KY ratio:    7.25788781234667     
+   actual KY ratio:    7.25789032562534     
+   implied KN firm: 	   19.2659950499760     
+   implied KN hh: 	   19.2660050074019     
+   relative error:   5.168394290322453E-007
  *******************************************
   ITERATION : 			          10
-  r guess: 	  4.090108189035490E-002
-   implied ra: 	  2.340108181584909E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60104164763501     
-   implied KY ratio:    7.26142190071889     
-   actual KY ratio:    7.26142273978843     
-   implied KN firm: 	   19.2799985267613     
-   implied KN hh: 	   19.2800018518903     
-   relative error:   1.724652107792934E-007
+  r guess: 	  4.092099646565136E-002
+   implied ra: 	  2.342099639114555E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065783410756     
+   implied KY ratio:    7.25788806367456     
+   actual KY ratio:    7.25788935093716     
+   implied KN firm: 	   19.2659960457186     
+   implied KN hh: 	   19.2660011457585     
+   relative error:   2.647171692959915E-007
  *******************************************
   ITERATION : 			          11
-  r guess: 	  4.090108141773599E-002
-   implied ra: 	  2.340108134323018E-002
-   implied borr rate:   4.300000052899122E-002
-   implied wage:    1.60104165674710     
-   implied KY ratio:    7.26142198462584     
-   actual KY ratio:    7.26142219944233     
-   implied KN firm: 	   19.2799988592742     
-   implied KN hh: 	   19.2799997105654     
-   relative error:   4.415411125613389E-008
+  r guess: 	  4.092099573987452E-002
+   implied ra: 	  2.342099566536872E-002
+   implied borr rate:   4.050000105053186E-002
+   implied wage:    1.60065784809037     
+   implied KY ratio:    7.25788819240082     
+   actual KY ratio:    7.25788813473773     
+   implied KN firm: 	   19.2659965557226     
+   implied KN hh: 	   19.2659963272657     
+   relative error:  -1.185803888414938E-008
