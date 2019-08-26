@@ -1,4 +1,4 @@
- -0.61528339E-001  0.78470912E-001  0.15741429E+001              NaN
+ -0.58646320E-001  0.99795310E-001  0.17812844E+001              NaN
               NaN              NaN              NaN              NaN
               NaN              NaN              NaN              NaN
               NaN              NaN              NaN              NaN
