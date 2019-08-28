@@ -2,119 +2,645 @@
  DFLS MINIMIZATION ATTEMPT            1
  *********************************
  EVALUATION NUMBER:            0
-  kappa1_w guess:   1.854462176561356E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.355319660869708     
- objective fun:   7.236034548017860E-002
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.281202793129032     
+ objective fun:   1.845291366387867E-005
   
  *********************************
  EVALUATION NUMBER:            1
-  kappa1_w guess:    3.00000000000000     
- FracIll0Liq0, target:   0.280000001192093       model:   5.106627674314633E-002
- objective fun:   0.668503185507553     
+  kappa0_w guess:   0.100000001490116     
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.308387769779907     
+ objective fun:   1.027889538945619E-002
   
  *********************************
  EVALUATION NUMBER:            2
-  kappa1_w guess:   1.146343321432226E-004
- FracIll0Liq0, target:   0.280000001192093       model:   0.514716660959862     
- objective fun:   0.702702932441760     
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:    3.00000000000000     
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   5.103647565937083E-002
+ objective fun:   0.668677239515093     
   
  *********************************
  EVALUATION NUMBER:            3
-  kappa1_w guess:   9.680267629288850E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.120422729565137     
- objective fun:   0.324807466875903     
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    4.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.288360279459364     
+ objective fun:   8.915083177431654E-004
   
  *********************************
  EVALUATION NUMBER:            4
-  kappa1_w guess:   1.115135527672273E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.424833914219130     
- objective fun:   0.267562017654420     
+  kappa0_w guess:   2.095192062866539E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.267621255910994     
+ objective fun:   1.954506803948305E-003
   
  *********************************
  EVALUATION NUMBER:            5
-  kappa1_w guess:   3.201257701644892E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.258395449081577     
- objective fun:   5.953528927571351E-003
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.672897323195051E-004
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.515037873063566     
+ objective fun:   0.704627560503588     
   
  *********************************
  EVALUATION NUMBER:            6
-  kappa1_w guess:   5.323668000712194E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.183589287124037     
- objective fun:   0.118559001377114     
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.279044080087022     
+ objective fun:   1.165542284871270E-005
   
  *********************************
  EVALUATION NUMBER:            7
-  kappa1_w guess:   2.801036663673059E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.282213687431950     
- objective fun:   6.250518784189689E-005
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.38746147198463     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275380547351244     
+ objective fun:   2.721856327300254E-004
   
  *********************************
  EVALUATION NUMBER:            8
-  kappa1_w guess:   2.662133071886260E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.296025820701864     
- objective fun:   3.275853173123675E-003
+  kappa0_w guess:   5.028614207315726E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.01264115034844     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276363936295931     
+ objective fun:   1.686347935781106E-004
   
  *********************************
  EVALUATION NUMBER:            9
-  kappa1_w guess:   2.947187905104059E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.271902092735671     
- objective fun:   8.364301123751282E-004
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   4.513970474915106E-002
+  kappa2_w guess:    9.01264115034844     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.198045514860249     
+ objective fun:   8.567012465211080E-002
   
  *********************************
  EVALUATION NUMBER:           10
-  kappa1_w guess:   2.827305532475572E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280340452536108     
- objective fun:   1.478407100192105E-006
+  kappa0_w guess:   4.328954976671765E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    8.86034822100448     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275066378156255     
+ objective fun:   3.104672965878953E-004
   
  *********************************
  EVALUATION NUMBER:           11
-  kappa1_w guess:   2.841722371542856E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.279241373163935     
- objective fun:   7.340771431203248E-006
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   1.854044260150207E-002
+  kappa2_w guess:    8.86034822100448     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.346580506109861     
+ objective fun:   5.654290302753083E-002
   
  *********************************
  EVALUATION NUMBER:           12
-  kappa1_w guess:   2.831878602582100E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.279993512867269     
- objective fun:   5.369688605038877E-010
+  kappa0_w guess:   4.694351822603115E-002
+  kappa1_w guess:   2.997675778799787E-002
+  kappa2_w guess:    8.65819813036053     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.264486578762364     
+ objective fun:   3.069722875433076E-003
   
  *********************************
  EVALUATION NUMBER:           13
-  kappa1_w guess:   2.833319315546150E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.279883718875725     
- objective fun:   1.724690941927376E-007
+  kappa0_w guess:   4.645118080350635E-002
+  kappa1_w guess:   2.815722176000230E-002
+  kappa2_w guess:    9.04890237056225     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276822827895921     
+ objective fun:   1.287554855605996E-004
   
  *********************************
  EVALUATION NUMBER:           14
-  kappa1_w guess:   2.830438622205382E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280106251157021     
- objective fun:   1.439930478451122E-007
+  kappa0_w guess:   4.613523938958476E-002
+  kappa1_w guess:   2.835043049827201E-002
+  kappa2_w guess:    9.00769327283955     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275203484076954     
+ objective fun:   2.934512275500125E-004
   
  *********************************
  EVALUATION NUMBER:           15
-  kappa1_w guess:   2.831794612088579E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280001692927545     
- objective fun:   3.650470429754538E-011
+  kappa0_w guess:   4.649330675946629E-002
+  kappa1_w guess:   2.703947802217470E-002
+  kappa2_w guess:    9.00755253047134     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.287616559894675     
+ objective fun:   7.399485456110537E-004
   
  *********************************
  EVALUATION NUMBER:           16
-  kappa1_w guess:   2.831650585364250E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280012639099208     
- objective fun:   2.037202741009480E-009
+  kappa0_w guess:   4.650984531370164E-002
+  kappa1_w guess:   2.819888683885044E-002
+  kappa2_w guess:    9.01166791150110     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276483132751528     
+ objective fun:   1.577597388127877E-004
   
  *********************************
  EVALUATION NUMBER:           17
-  kappa1_w guess:   2.831813511389608E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280000055615563     
- objective fun:   3.777951575647700E-014
+  kappa0_w guess:   4.652906096512704E-002
+  kappa1_w guess:   2.836649175821024E-002
+  kappa2_w guess:    9.01317199282760     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275136704553788     
+ objective fun:   3.016792600861502E-004
+  
+ *********************************
+ EVALUATION NUMBER:           18
+  kappa0_w guess:   4.649706675253318E-002
+  kappa1_w guess:   2.835550198388320E-002
+  kappa2_w guess:    9.00914730565954     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275224894616758     
+ objective fun:   2.908372782098144E-004
+  
+ *********************************
+ EVALUATION NUMBER:           19
+  kappa0_w guess:   4.649095700221370E-002
+  kappa1_w guess:   2.844678916350494E-002
+  kappa2_w guess:    9.01325885720642     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274499101020503     
+ objective fun:   3.859681433690661E-004
+  
+ *********************************
+ EVALUATION NUMBER:           20
+  kappa0_w guess:   4.649195302524561E-002
+  kappa1_w guess:   2.829604027573653E-002
+  kappa2_w guess:    9.01626472267967     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275696766518086     
+ objective fun:   2.361967921160144E-004
+  
+ *********************************
+ EVALUATION NUMBER:           21
+  kappa0_w guess:   4.645938792526011E-002
+  kappa1_w guess:   2.831043430488324E-002
+  kappa2_w guess:    9.01219873131387     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275576183181871     
+ objective fun:   2.496194594505498E-004
+  
+ *********************************
+ EVALUATION NUMBER:           22
+  kappa0_w guess:   4.649402835404860E-002
+  kappa1_w guess:   2.821728712962256E-002
+  kappa2_w guess:    9.01259276870187     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276338472702826     
+ objective fun:   1.710049842290357E-004
+  
+ *********************************
+ EVALUATION NUMBER:           23
+  kappa0_w guess:   4.649454882535575E-002
+  kappa1_w guess:   2.825146878316839E-002
+  kappa2_w guess:    9.01261516802793     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276057537295043     
+ objective fun:   1.982528245815467E-004
+  
+ *********************************
+ EVALUATION NUMBER:           24
+  kappa0_w guess:   4.649456809544119E-002
+  kappa1_w guess:   2.832976516094582E-002
+  kappa2_w guess:    9.01272812188550     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275425446087946     
+ objective fun:   2.669203344730269E-004
+  
+ *********************************
+ EVALUATION NUMBER:           25
+  kappa0_w guess:   4.649532791626267E-002
+  kappa1_w guess:   2.831491821881601E-002
+  kappa2_w guess:    9.01301872812631     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275546118801753     
+ objective fun:   2.530238288018508E-004
+  
+ *********************************
+ EVALUATION NUMBER:           26
+  kappa0_w guess:   4.649579611765128E-002
+  kappa1_w guess:   2.832080405223528E-002
+  kappa2_w guess:    9.01230512925571     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275499166633183     
+ objective fun:   2.583866269666242E-004
+  
+ *********************************
+ EVALUATION NUMBER:           27
+  kappa0_w guess:   4.649198097743382E-002
+  kappa1_w guess:   2.831495552556619E-002
+  kappa2_w guess:    9.01261579852769     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275545366651546     
+ objective fun:   2.531092949090350E-004
+  
+ *********************************
+ EVALUATION NUMBER:           28
+  kappa0_w guess:   4.649896375108593E-002
+  kappa1_w guess:   2.832161022888511E-002
+  kappa2_w guess:    9.01270853762974     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275492928084528     
+ objective fun:   2.591034161219490E-004
+  
+ *********************************
+ EVALUATION NUMBER:           29
+  kappa0_w guess:   4.649580099830709E-002
+  kappa1_w guess:   2.830418209391011E-002
+  kappa2_w guess:    9.01262427554033     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275632770425813     
+ objective fun:   2.432742908614399E-004
+  
+ *********************************
+ EVALUATION NUMBER:           30
+  kappa0_w guess:   4.649724006743581E-002
+  kappa1_w guess:   2.830587972110830E-002
+  kappa2_w guess:    9.01258676943011     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275619017546544     
+ objective fun:   2.448088971828758E-004
+  
+ *********************************
+ EVALUATION NUMBER:           31
+  kappa0_w guess:   4.649706082828737E-002
+  kappa1_w guess:   2.832098380509860E-002
+  kappa2_w guess:    9.01266724551626     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275497488296741     
+ objective fun:   2.585793647983744E-004
+  
+ *********************************
+ EVALUATION NUMBER:           32
+  kappa0_w guess:   4.649539052812476E-002
+  kappa1_w guess:   2.831846142596990E-002
+  kappa2_w guess:    9.01266462931671     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275517761982241     
+ objective fun:   2.562559714701785E-004
+  
+ *********************************
+ EVALUATION NUMBER:           33
+  kappa0_w guess:   4.649573823167642E-002
+  kappa1_w guess:   2.831619063908042E-002
+  kappa2_w guess:    9.01265156894149     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275536031834744     
+ objective fun:   2.541712022151996E-004
+  
+ *********************************
+ EVALUATION NUMBER:           34
+  kappa0_w guess:   4.649537324872401E-002
+  kappa1_w guess:   2.831694935486371E-002
+  kappa2_w guess:    9.01265581813204     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275529824015152     
+ objective fun:   2.548786201925601E-004
+  
+ *********************************
+ EVALUATION NUMBER:           35
+  kappa0_w guess:   4.649554154468682E-002
+  kappa1_w guess:   2.831701540301781E-002
+  kappa2_w guess:    9.01269410456108     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275529309821652     
+ objective fun:   2.549372596880439E-004
+  
+ *********************************
+ EVALUATION NUMBER:           36
+  kappa0_w guess:   4.649556431194561E-002
+  kappa1_w guess:   2.831761253028577E-002
+  kappa2_w guess:    9.01262261932516     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275524568195526     
+ objective fun:   2.554783206149535E-004
+  
+ *********************************
+ EVALUATION NUMBER:           37
+  kappa0_w guess:   4.649585855884650E-002
+  kappa1_w guess:   2.831799047110730E-002
+  kappa2_w guess:    9.01266096085515     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275521564370835     
+ objective fun:   2.558213799900715E-004
+  
+ *********************************
+ EVALUATION NUMBER:           38
+  kappa0_w guess:   4.649565649535813E-002
+  kappa1_w guess:   2.831749930431668E-002
+  kappa2_w guess:    9.01265985365872     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275525487890807     
+ objective fun:   2.553733305216803E-004
   
  ********************************** 
  ********************************** 
  DFLS MINIMIZATION ATTEMPT            2
  *********************************
- EVALUATION NUMBER:           18
-  kappa1_w guess:   2.831813511389608E-002
- FracIll0Liq0, target:   0.280000001192093       model:   0.280000032024072     
- objective fun:   1.212513923785082E-014
+ EVALUATION NUMBER:           39
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275527101877039     
+ objective fun:   2.551891340848299E-004
+  
+ *********************************
+ EVALUATION NUMBER:           40
+  kappa0_w guess:   0.100000001490116     
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.300750764208568     
+ objective fun:   5.492272475757795E-003
+  
+ *********************************
+ EVALUATION NUMBER:           41
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:    3.00000000000000     
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   5.115399219643861E-002
+ objective fun:   0.667991012593201     
+  
+ *********************************
+ EVALUATION NUMBER:           42
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    6.00000000000000     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.277465973638165     
+ objective fun:   8.190428047687204E-005
+  
+ *********************************
+ EVALUATION NUMBER:           43
+  kappa0_w guess:   2.095192062866539E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.263306963280198     
+ objective fun:   3.554305004530689E-003
+  
+ *********************************
+ EVALUATION NUMBER:           44
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.672897323195051E-004
+  kappa2_w guess:    9.01265822803911     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.515055105248772     
+ objective fun:   0.704730886130582     
+  
+ *********************************
+ EVALUATION NUMBER:           45
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    13.5507130275250     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.278075143087894     
+ objective fun:   4.725865675704465E-005
+  
+ *********************************
+ EVALUATION NUMBER:           46
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    14.1152900659091     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274552040574871     
+ objective fun:   3.785749315570246E-004
+  
+ *********************************
+ EVALUATION NUMBER:           47
+  kappa0_w guess:   5.028614207315726E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    13.5506873029023     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274914100108770     
+ objective fun:   3.299284388915373E-004
+  
+ *********************************
+ EVALUATION NUMBER:           48
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   4.513970474915106E-002
+  kappa2_w guess:    13.5506873029023     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.193477424711570     
+ objective fun:   9.548668593219030E-002
+  
+ *********************************
+ EVALUATION NUMBER:           49
+  kappa0_w guess:   4.328954976671765E-002
+  kappa1_w guess:   2.831729501485824E-002
+  kappa2_w guess:    13.3212840295722     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.273894385028302     
+ objective fun:   4.754916890577043E-004
+  
+ *********************************
+ EVALUATION NUMBER:           50
+  kappa0_w guess:   4.649554938077927E-002
+  kappa1_w guess:   1.854044260150207E-002
+  kappa2_w guess:    13.3212840295722     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.341463022645501     
+ objective fun:   4.818498691345804E-002
+  
+ *********************************
+ EVALUATION NUMBER:           51
+  kappa0_w guess:   4.694351822603115E-002
+  kappa1_w guess:   2.997675778799787E-002
+  kappa2_w guess:    13.0167794626335     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.262198059247487     
+ objective fun:   4.042208345671816E-003
+  
+ *********************************
+ EVALUATION NUMBER:           52
+  kappa0_w guess:   4.645118080350635E-002
+  kappa1_w guess:   2.815722176000230E-002
+  kappa2_w guess:    13.6053086346203     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.275986840613879     
+ objective fun:   2.054267562422223E-004
+  
+ *********************************
+ EVALUATION NUMBER:           53
+  kappa0_w guess:   4.613523938958476E-002
+  kappa1_w guess:   2.835043049827201E-002
+  kappa2_w guess:    13.5432341709581     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274140750579484     
+ objective fun:   4.378930797070721E-004
+  
+ *********************************
+ EVALUATION NUMBER:           54
+  kappa0_w guess:   4.649330675946629E-002
+  kappa1_w guess:   2.703947802217470E-002
+  kappa2_w guess:    13.5430221666313     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.287917017061022     
+ objective fun:   7.994788231527160E-004
+  
+ *********************************
+ EVALUATION NUMBER:           55
+  kappa0_w guess:   4.686158545230608E-002
+  kappa1_w guess:   2.830621438333738E-002
+  kappa2_w guess:    13.5533982502837     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274603307813419     
+ objective fun:   3.714834078498938E-004
+  
+ *********************************
+ EVALUATION NUMBER:           56
+  kappa0_w guess:   4.649637444863824E-002
+  kappa1_w guess:   2.966724786099310E-002
+  kappa2_w guess:    13.5534688884937     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.263996827174040     
+ objective fun:   3.266601740706454E-003
+  
+ *********************************
+ EVALUATION NUMBER:           57
+  kappa0_w guess:   4.653610901501547E-002
+  kappa1_w guess:   2.846458571763164E-002
+  kappa2_w guess:    13.4962018307284     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.273257986069971     
+ objective fun:   5.797801979575599E-004
+  
+ *********************************
+ EVALUATION NUMBER:           58
+  kappa0_w guess:   4.649575140672960E-002
+  kappa1_w guess:   2.810664292927413E-002
+  kappa2_w guess:    13.5506913413961     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.276412325803114     
+ objective fun:   1.641762064679271E-004
+  
+ *********************************
+ EVALUATION NUMBER:           59
+  kappa0_w guess:   4.653184117244984E-002
+  kappa1_w guess:   2.831711162737461E-002
+  kappa2_w guess:    13.5513372150051     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274469443988643     
+ objective fun:   3.901411061248431E-004
+  
+ *********************************
+ EVALUATION NUMBER:           60
+  kappa0_w guess:   4.647488005347336E-002
+  kappa1_w guess:   2.833329179168652E-002
+  kappa2_w guess:    13.5505572681414     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274327714363420     
+ objective fun:   4.103933366424843E-004
+  
+ *********************************
+ EVALUATION NUMBER:           61
+  kappa0_w guess:   4.649782628076532E-002
+  kappa1_w guess:   2.844893599922752E-002
+  kappa2_w guess:    13.5511676362688     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.273333443991340     
+ objective fun:   5.668748027101779E-004
+  
+ *********************************
+ EVALUATION NUMBER:           62
+  kappa0_w guess:   4.650871582601955E-002
+  kappa1_w guess:   2.826570365124772E-002
+  kappa2_w guess:    13.5508305147307     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274935318813680     
+ objective fun:   3.271812165279721E-004
+  
+ *********************************
+ EVALUATION NUMBER:           63
+  kappa0_w guess:   4.649854189089390E-002
+  kappa1_w guess:   2.832412988682959E-002
+  kappa2_w guess:    13.5452092817469     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274409098164393     
+ objective fun:   3.987014846809116E-004
+  
+ *********************************
+ EVALUATION NUMBER:           64
+  kappa0_w guess:   4.649616072257280E-002
+  kappa1_w guess:   2.826380396081945E-002
+  kappa2_w guess:    13.5519073844704     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274944233759113     
+ objective fun:   3.260304096776614E-004
+  
+ *********************************
+ EVALUATION NUMBER:           65
+  kappa0_w guess:   4.649546094753289E-002
+  kappa1_w guess:   2.831542457063726E-002
+  kappa2_w guess:    13.5501656890396     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274484671275739     
+ objective fun:   3.879957120817924E-004
+  
+ *********************************
+ EVALUATION NUMBER:           66
+  kappa0_w guess:   4.649575664806550E-002
+  kappa1_w guess:   2.831950880890512E-002
+  kappa2_w guess:    13.5510031705110     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274450806503844     
+ objective fun:   3.927750181873211E-004
+  
+ *********************************
+ EVALUATION NUMBER:           67
+  kappa0_w guess:   4.649583229370722E-002
+  kappa1_w guess:   2.833027161713774E-002
+  kappa2_w guess:    13.5506195016467     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274356725344578     
+ objective fun:   4.062061482139576E-004
+  
+ *********************************
+ EVALUATION NUMBER:           68
+  kappa0_w guess:   4.649195214212253E-002
+  kappa1_w guess:   2.831949812254393E-002
+  kappa2_w guess:    13.5507337969756     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274451198750863     
+ objective fun:   3.927194932351063E-004
+  
+ *********************************
+ EVALUATION NUMBER:           69
+  kappa0_w guess:   4.649879491299171E-002
+  kappa1_w guess:   2.831132225477723E-002
+  kappa2_w guess:    13.5506729738885     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274523428400666     
+ objective fun:   3.825618531174057E-004
+  
+ *********************************
+ EVALUATION NUMBER:           70
+  kappa0_w guess:   4.649509409346288E-002
+  kappa1_w guess:   2.830532173482158E-002
+  kappa2_w guess:    13.5509355332156     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274575463020800     
+ objective fun:   3.753267107302598E-004
+  
+ *********************************
+ EVALUATION NUMBER:           71
+  kappa0_w guess:   4.649522517604120E-002
+  kappa1_w guess:   2.831401803814219E-002
+  kappa2_w guess:    13.5504122179580     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274498693551422     
+ objective fun:   3.860253252499937E-004
+  
+ *********************************
+ EVALUATION NUMBER:           72
+  kappa0_w guess:   4.649528117177690E-002
+  kappa1_w guess:   2.831458400285502E-002
+  kappa2_w guess:    13.5504641726089     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274494046882596     
+ objective fun:   3.866777117364202E-004
+  
+ *********************************
+ EVALUATION NUMBER:           73
+  kappa0_w guess:   4.649590760904252E-002
+  kappa1_w guess:   2.831705775687288E-002
+  kappa2_w guess:    13.5507090803200     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274472401534167     
+ objective fun:   3.897239504864520E-004
+  
+ *********************************
+ EVALUATION NUMBER:           74
+  kappa0_w guess:   4.649533624067689E-002
+  kappa1_w guess:   2.831739853606187E-002
+  kappa2_w guess:    13.5507165730246     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274469458901989     
+ objective fun:   3.901390020686464E-004
+  
+ *********************************
+ EVALUATION NUMBER:           75
+  kappa0_w guess:   4.649558711539103E-002
+  kappa1_w guess:   2.831852437844888E-002
+  kappa2_w guess:    13.5506936691444     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274459616728386     
+ objective fun:   3.915288232693401E-004
+  
+ *********************************
+ EVALUATION NUMBER:           76
+  kappa0_w guess:   4.649550648803795E-002
+  kappa1_w guess:   2.831608548351140E-002
+  kappa2_w guess:    13.5507342371412     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274481083676012     
+ objective fun:   3.885006414534704E-004
+  
+ *********************************
+ EVALUATION NUMBER:           77
+  kappa0_w guess:   4.649582626092660E-002
+  kappa1_w guess:   2.831713039967743E-002
+  kappa2_w guess:    13.5507082610660     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274471835975918     
+ objective fun:   3.898037040447020E-004
+  
+ *********************************
+ EVALUATION NUMBER:           78
+  kappa0_w guess:   4.649559942903719E-002
+  kappa1_w guess:   2.831775927548694E-002
+  kappa2_w guess:    13.5507642471850     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274466323743606     
+ objective fun:   3.905814520809924E-004
+  
+ *********************************
+ EVALUATION NUMBER:           79
+  kappa0_w guess:   4.649564652822075E-002
+  kappa1_w guess:   2.831705208374146E-002
+  kappa2_w guess:    13.5506917990270     
+ FracIll0Liq0, target:   0.280000001192093       model:   0.274472577045528     
+ objective fun:   3.896992019881700E-004
   
  ********************************** 
